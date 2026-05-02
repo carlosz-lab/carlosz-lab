@@ -1,16 +1,33 @@
-## Hi there 👋
+# Carlos Z
 
-<!--
-**carlosz-lab/carlosz-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Restaurant Project Manager  
+Building practical tools for real-world operations using AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I do
+I focus on turning operational problems into simple, usable tools.  
+Not just building features, but making solutions that actually work on site.
+
+---
+
+## 🔧 Current Focus
+- Operation efficiency & workflow optimization  
+- Data-driven decision making  
+- SOP & training system improvement  
+- AI-assisted tool building  
+
+---
+
+## 🎯 Approach
+- Problem first, tool second  
+- Simplicity over complexity  
+- Practical use over technical perfection  
+
+---
+
+## 📌 About
+I come from a restaurant operations background,  
+and I build tools that solve real problems in daily operations.
+
+My goal is to bridge the gap between on-site needs and practical digital solutions.
